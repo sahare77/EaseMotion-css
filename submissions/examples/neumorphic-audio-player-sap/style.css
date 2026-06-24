@@ -1,0 +1,3 @@
+.neumorphic-player-sap { display: flex; justify-content: center; padding: 3rem; background: #e0e5ec; min-height: 100px; }
+.player-btn-sap { width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: #e0e5ec; box-shadow: 9px 9px 16px rgb(163,177,198,0.6), -9px -9px 16px rgba(255,255,255, 0.5); font-size: 1.5rem; color: #4d4d4d; cursor: pointer; transition: box-shadow 0.2s ease-out; }
+.player-btn-sap:active { box-shadow: inset 6px 6px 10px 0 rgba(163, 177, 198, 0.7), inset -6px -6px 10px 0 rgba(255, 255, 255, 0.8); }
